@@ -1,0 +1,666 @@
+[2024-04-06 04:53:33][notice]Start restoring themes.
+[2024-04-06 04:53:33][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip
+[2024-04-06 04:53:34][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip succeeded.
+[2024-04-06 04:53:34][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_themes.zip index:0
+[2024-04-06 04:53:35][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_themes.zip index:0 finished.
+[2024-04-06 04:53:35][notice]End restore themes.
+[2024-04-06 04:53:37][notice]Start restoring themes.
+[2024-04-06 04:53:37][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_themes.zip index:1000
+[2024-04-06 04:53:39][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_themes.zip index:1000 finished.
+[2024-04-06 04:53:39][notice]End restore themes.
+[2024-04-06 04:53:40][notice]Start restoring themes.
+[2024-04-06 04:53:40][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_themes.zip index:2000
+[2024-04-06 04:53:43][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_themes.zip index:2000 finished.
+[2024-04-06 04:53:43][notice]End restore themes.
+[2024-04-06 04:53:44][notice]Start restoring themes.
+[2024-04-06 04:53:44][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_themes.zip index:3000
+[2024-04-06 04:53:46][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_themes.zip index:3000 finished.
+[2024-04-06 04:53:46][notice]End restore themes.
+[2024-04-06 04:53:48][notice]Start restoring plugin.
+[2024-04-06 04:53:48][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip
+[2024-04-06 04:53:49][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip succeeded.
+[2024-04-06 04:53:49][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:0
+[2024-04-06 04:53:51][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:0 finished.
+[2024-04-06 04:53:51][notice]End restore plugin.
+[2024-04-06 04:53:53][notice]Start restoring plugin.
+[2024-04-06 04:53:53][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:1000
+[2024-04-06 04:53:55][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:1000 finished.
+[2024-04-06 04:53:55][notice]End restore plugin.
+[2024-04-06 04:53:56][notice]Start restoring plugin.
+[2024-04-06 04:53:56][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:2000
+[2024-04-06 04:53:58][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:2000 finished.
+[2024-04-06 04:53:58][notice]End restore plugin.
+[2024-04-06 04:54:00][notice]Start restoring plugin.
+[2024-04-06 04:54:00][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:3000
+[2024-04-06 04:54:03][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:3000 finished.
+[2024-04-06 04:54:03][notice]End restore plugin.
+[2024-04-06 04:54:04][notice]Start restoring plugin.
+[2024-04-06 04:54:04][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:4000
+[2024-04-06 04:54:07][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:4000 finished.
+[2024-04-06 04:54:07][notice]End restore plugin.
+[2024-04-06 04:54:08][notice]Start restoring plugin.
+[2024-04-06 04:54:08][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:5000
+[2024-04-06 04:54:11][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:5000 finished.
+[2024-04-06 04:54:11][notice]End restore plugin.
+[2024-04-06 04:54:13][notice]Start restoring plugin.
+[2024-04-06 04:54:13][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:6000
+[2024-04-06 04:54:16][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:6000 finished.
+[2024-04-06 04:54:16][notice]End restore plugin.
+[2024-04-06 04:54:18][notice]Start restoring plugin.
+[2024-04-06 04:54:18][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:7000
+[2024-04-06 04:54:20][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:7000 finished.
+[2024-04-06 04:54:20][notice]End restore plugin.
+[2024-04-06 04:54:22][notice]Start restoring plugin.
+[2024-04-06 04:54:22][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:8000
+[2024-04-06 04:54:25][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:8000 finished.
+[2024-04-06 04:54:25][notice]End restore plugin.
+[2024-04-06 04:54:26][notice]Start restoring plugin.
+[2024-04-06 04:54:26][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:9000
+[2024-04-06 04:54:30][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:9000 finished.
+[2024-04-06 04:54:30][notice]End restore plugin.
+[2024-04-06 04:54:31][notice]Start restoring plugin.
+[2024-04-06 04:54:31][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:10000
+[2024-04-06 04:54:33][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:10000 finished.
+[2024-04-06 04:54:33][notice]End restore plugin.
+[2024-04-06 04:54:35][notice]Start restoring plugin.
+[2024-04-06 04:54:35][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:11000
+[2024-04-06 04:54:38][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:11000 finished.
+[2024-04-06 04:54:38][notice]End restore plugin.
+[2024-04-06 04:54:40][notice]Start restoring plugin.
+[2024-04-06 04:54:40][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:12000
+[2024-04-06 04:54:42][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_plugin.zip index:12000 finished.
+[2024-04-06 04:54:42][notice]End restore plugin.
+[2024-04-06 04:54:44][notice]Start restoring wp-content.
+[2024-04-06 04:54:44][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip
+[2024-04-06 04:54:44][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip succeeded.
+[2024-04-06 04:54:44][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_content.zip index:0
+[2024-04-06 04:54:44][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_content.zip index:0 finished.
+[2024-04-06 04:54:44][notice]End restore wp-content.
+[2024-04-06 04:54:46][notice]Start restoring upload.
+[2024-04-06 04:54:46][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip
+[2024-04-06 04:54:47][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip succeeded.
+[2024-04-06 04:54:47][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_uploads.zip index:0
+[2024-04-06 04:54:48][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_uploads.zip index:0 finished.
+[2024-04-06 04:54:48][notice]End restore upload.
+[2024-04-06 04:54:49][notice]Start restoring wp-core.
+[2024-04-06 04:54:49][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip
+[2024-04-06 04:54:50][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip succeeded.
+[2024-04-06 04:54:50][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_core.zip
+[2024-04-06 04:54:55][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_core.zip succeeded.
+[2024-04-06 04:54:55][notice]End restore wp-core.
+[2024-04-06 04:54:58][notice]Start restoring databases.
+[2024-04-06 04:54:58][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip
+[2024-04-06 04:54:58][notice]Extracting file:mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_all.zip finished.
+[2024-04-06 04:54:58][notice]Extracting file:E:\Projects\Github-Projects\Wordpress\www\MensSwag/wp-content\wpvividbackups\mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_db.zip
+[2024-04-06 04:54:59][notice]Extracting file:E:\Projects\Github-Projects\Wordpress\www\MensSwag/wp-content\wpvividbackups\mensswag.local_wpvivid-6610cf70193ce_2024-04-06-04-28_backup_db.zip finished.
+[2024-04-06 04:54:59][notice]End restore databases.
+[2024-04-06 04:55:00][notice]Start restoring databases.
+[2024-04-06 04:55:00][notice]Start restoring sql file offset:0
+[2024-04-06 04:55:01][notice]The test to drop table succeeds.
+[2024-04-06 04:55:01][notice]Drop table if exist tmp46cf94_revslider_layer_animations
+[2024-04-06 04:55:02][notice]Creating table tmp46cf94_revslider_layer_animations
+[2024-04-06 04:55:02][notice]Dumping table tmp46cf94_revslider_layer_animations is complete. Start replacing row(s).
+[2024-04-06 04:55:02][notice]Counting of rows in tmp46cf94_revslider_layer_animations: 0
+[2024-04-06 04:55:02][notice]Drop table if exist tmp46cf94_revslider_layer_animations_bkp
+[2024-04-06 04:55:02][notice]Creating table tmp46cf94_revslider_layer_animations_bkp
+[2024-04-06 04:55:02][notice]Dumping table tmp46cf94_revslider_layer_animations_bkp is complete. Start replacing row(s).
+[2024-04-06 04:55:02][notice]Counting of rows in tmp46cf94_revslider_layer_animations_bkp: 0
+[2024-04-06 04:55:02][notice]Drop table if exist tmp46cf94_revslider_navigations
+[2024-04-06 04:55:02][notice]Creating table tmp46cf94_revslider_navigations
+[2024-04-06 04:55:02][notice]Dumping table tmp46cf94_revslider_navigations is complete. Start replacing row(s).
+[2024-04-06 04:55:02][notice]Counting of rows in tmp46cf94_revslider_navigations: 0
+[2024-04-06 04:55:02][notice]Drop table if exist tmp46cf94_revslider_navigations_bkp
+[2024-04-06 04:55:02][notice]Creating table tmp46cf94_revslider_navigations_bkp
+[2024-04-06 04:55:02][notice]Dumping table tmp46cf94_revslider_navigations_bkp is complete. Start replacing row(s).
+[2024-04-06 04:55:02][notice]Counting of rows in tmp46cf94_revslider_navigations_bkp: 0
+[2024-04-06 04:55:02][notice]Drop table if exist tmp46cf94_wc_category_lookup
+[2024-04-06 04:55:03][notice]Creating table tmp46cf94_wc_category_lookup
+[2024-04-06 04:55:03][notice]Dumping table tmp46cf94_wc_category_lookup is complete. Start replacing row(s).
+[2024-04-06 04:55:03][notice]Counting of rows in tmp46cf94_wc_category_lookup: 6
+[2024-04-06 04:55:04][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:04][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:04][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:04][notice]Drop table if exist tmp46cf94_wc_reserved_stock
+[2024-04-06 04:55:04][notice]Creating table tmp46cf94_wc_reserved_stock
+[2024-04-06 04:55:04][notice]Dumping table tmp46cf94_wc_reserved_stock is complete. Start replacing row(s).
+[2024-04-06 04:55:04][notice]Counting of rows in tmp46cf94_wc_reserved_stock: 0
+[2024-04-06 04:55:04][notice]Drop table if exist tmp46cf94_woocommerce_shipping_zone_methods
+[2024-04-06 04:55:04][notice]Creating table tmp46cf94_woocommerce_shipping_zone_methods
+[2024-04-06 04:55:04][notice]Dumping table tmp46cf94_woocommerce_shipping_zone_methods is complete. Start replacing row(s).
+[2024-04-06 04:55:04][notice]Counting of rows in tmp46cf94_woocommerce_shipping_zone_methods: 0
+[2024-04-06 04:55:04][notice]Drop table if exist tmp46cf94_woocommerce_shipping_zones
+[2024-04-06 04:55:04][notice]Creating table tmp46cf94_woocommerce_shipping_zones
+[2024-04-06 04:55:04][notice]Dumping table tmp46cf94_woocommerce_shipping_zones is complete. Start replacing row(s).
+[2024-04-06 04:55:04][notice]Counting of rows in tmp46cf94_woocommerce_shipping_zones: 0
+[2024-04-06 04:55:04][notice]Drop table if exist tmp46cf94_woodmart_wishlists
+[2024-04-06 04:55:05][notice]Creating table tmp46cf94_woodmart_wishlists
+[2024-04-06 04:55:05][notice]Dumping table tmp46cf94_woodmart_wishlists is complete. Start replacing row(s).
+[2024-04-06 04:55:05][notice]Counting of rows in tmp46cf94_woodmart_wishlists: 1
+[2024-04-06 04:55:05][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:05][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:05][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:05][notice]Drop table if exist tmp46cf94_wpfm_backup
+[2024-04-06 04:55:05][notice]Creating table tmp46cf94_wpfm_backup
+[2024-04-06 04:55:05][notice]Dumping table tmp46cf94_wpfm_backup is complete. Start replacing row(s).
+[2024-04-06 04:55:05][notice]Counting of rows in tmp46cf94_wpfm_backup: 0
+[2024-04-06 04:55:05][notice]Drop table if exist tmp46cf94_actionscheduler_claims
+[2024-04-06 04:55:05][notice]Creating table tmp46cf94_actionscheduler_claims
+[2024-04-06 04:55:05][notice]Dumping table tmp46cf94_actionscheduler_claims is complete. Start replacing row(s).
+[2024-04-06 04:55:05][notice]Counting of rows in tmp46cf94_actionscheduler_claims: 0
+[2024-04-06 04:55:05][notice]Drop table if exist tmp46cf94_actionscheduler_groups
+[2024-04-06 04:55:06][notice]Creating table tmp46cf94_actionscheduler_groups
+[2024-04-06 04:55:06][notice]Dumping table tmp46cf94_actionscheduler_groups is complete. Start replacing row(s).
+[2024-04-06 04:55:06][notice]Counting of rows in tmp46cf94_actionscheduler_groups: 7
+[2024-04-06 04:55:06][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:06][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:06][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:06][notice]Drop table if exist tmp46cf94_e_events
+[2024-04-06 04:55:06][notice]Creating table tmp46cf94_e_events
+[2024-04-06 04:55:06][notice]Dumping table tmp46cf94_e_events is complete. Start replacing row(s).
+[2024-04-06 04:55:06][notice]Counting of rows in tmp46cf94_e_events: 0
+[2024-04-06 04:55:06][notice]Drop table if exist tmp46cf94_links
+[2024-04-06 04:55:07][notice]Creating table tmp46cf94_links
+[2024-04-06 04:55:07][notice]Dumping table tmp46cf94_links is complete. Start replacing row(s).
+[2024-04-06 04:55:07][notice]Counting of rows in tmp46cf94_links: 0
+[2024-04-06 04:55:07][notice]Drop table if exist tmp46cf94_revslider_css_bkp
+[2024-04-06 04:55:08][notice]Creating table tmp46cf94_revslider_css_bkp
+[2024-04-06 04:55:10][notice]Dumping table tmp46cf94_revslider_css_bkp is complete. Start replacing row(s).
+[2024-04-06 04:55:10][notice]Counting of rows in tmp46cf94_revslider_css_bkp: 47
+[2024-04-06 04:55:10][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:10][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:10][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:10][notice]Drop table if exist tmp46cf94_revslider_sliders
+[2024-04-06 04:55:10][notice]Creating table tmp46cf94_revslider_sliders
+[2024-04-06 04:55:10][notice]Dumping table tmp46cf94_revslider_sliders is complete. Start replacing row(s).
+[2024-04-06 04:55:10][notice]Counting of rows in tmp46cf94_revslider_sliders: 1
+[2024-04-06 04:55:10][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:10][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:10][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:10][notice]Drop table if exist tmp46cf94_revslider_sliders_bkp
+[2024-04-06 04:55:11][notice]Creating table tmp46cf94_revslider_sliders_bkp
+[2024-04-06 04:55:11][notice]Dumping table tmp46cf94_revslider_sliders_bkp is complete. Start replacing row(s).
+[2024-04-06 04:55:11][notice]Counting of rows in tmp46cf94_revslider_sliders_bkp: 1
+[2024-04-06 04:55:11][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:11][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:11][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:11][notice]Drop table if exist tmp46cf94_revslider_slides
+[2024-04-06 04:55:11][notice]Creating table tmp46cf94_revslider_slides
+[2024-04-06 04:55:11][notice]Dumping table tmp46cf94_revslider_slides is complete. Start replacing row(s).
+[2024-04-06 04:55:11][notice]Counting of rows in tmp46cf94_revslider_slides: 1
+[2024-04-06 04:55:11][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:11][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:11][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:11][notice]Drop table if exist tmp46cf94_revslider_slides_bkp
+[2024-04-06 04:55:11][notice]Creating table tmp46cf94_revslider_slides_bkp
+[2024-04-06 04:55:11][notice]Dumping table tmp46cf94_revslider_slides_bkp is complete. Start replacing row(s).
+[2024-04-06 04:55:11][notice]Counting of rows in tmp46cf94_revslider_slides_bkp: 1
+[2024-04-06 04:55:11][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:12][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:12][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:12][notice]Drop table if exist tmp46cf94_revslider_static_slides
+[2024-04-06 04:55:12][notice]Creating table tmp46cf94_revslider_static_slides
+[2024-04-06 04:55:12][notice]Dumping table tmp46cf94_revslider_static_slides is complete. Start replacing row(s).
+[2024-04-06 04:55:12][notice]Counting of rows in tmp46cf94_revslider_static_slides: 1
+[2024-04-06 04:55:12][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:12][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:12][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:12][notice]Drop table if exist tmp46cf94_revslider_static_slides_bkp
+[2024-04-06 04:55:12][notice]Creating table tmp46cf94_revslider_static_slides_bkp
+[2024-04-06 04:55:12][notice]Dumping table tmp46cf94_revslider_static_slides_bkp is complete. Start replacing row(s).
+[2024-04-06 04:55:12][notice]Counting of rows in tmp46cf94_revslider_static_slides_bkp: 1
+[2024-04-06 04:55:12][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:12][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:12][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:12][notice]Drop table if exist tmp46cf94_term_relationships
+[2024-04-06 04:55:13][notice]Creating table tmp46cf94_term_relationships
+[2024-04-06 04:55:15][notice]Dumping table tmp46cf94_term_relationships is complete. Start replacing row(s).
+[2024-04-06 04:55:15][Warning]Skipping table tmp46cf94_term_relationships
+[2024-04-06 04:55:15][notice]Drop table if exist tmp46cf94_wc_product_attributes_lookup
+[2024-04-06 04:55:15][notice]Creating table tmp46cf94_wc_product_attributes_lookup
+[2024-04-06 04:55:16][notice]Dumping table tmp46cf94_wc_product_attributes_lookup is complete. Start replacing row(s).
+[2024-04-06 04:55:16][notice]Counting of rows in tmp46cf94_wc_product_attributes_lookup: 0
+[2024-04-06 04:55:16][notice]Drop table if exist tmp46cf94_wc_product_download_directories
+[2024-04-06 04:55:16][notice]Creating table tmp46cf94_wc_product_download_directories
+[2024-04-06 04:55:16][notice]Dumping table tmp46cf94_wc_product_download_directories is complete. Start replacing row(s).
+[2024-04-06 04:55:16][notice]Counting of rows in tmp46cf94_wc_product_download_directories: 2
+[2024-04-06 04:55:16][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:16][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:16][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:16][notice]Drop table if exist tmp46cf94_wc_rate_limits
+[2024-04-06 04:55:17][notice]Creating table tmp46cf94_wc_rate_limits
+[2024-04-06 04:55:17][notice]Dumping table tmp46cf94_wc_rate_limits is complete. Start replacing row(s).
+[2024-04-06 04:55:17][notice]Counting of rows in tmp46cf94_wc_rate_limits: 0
+[2024-04-06 04:55:17][notice]Drop table if exist tmp46cf94_wc_tax_rate_classes
+[2024-04-06 04:55:18][notice]Creating table tmp46cf94_wc_tax_rate_classes
+[2024-04-06 04:55:18][notice]Dumping table tmp46cf94_wc_tax_rate_classes is complete. Start replacing row(s).
+[2024-04-06 04:55:18][notice]Counting of rows in tmp46cf94_wc_tax_rate_classes: 2
+[2024-04-06 04:55:18][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:18][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:18][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:18][notice]Drop table if exist tmp46cf94_wc_webhooks
+[2024-04-06 04:55:18][notice]Creating table tmp46cf94_wc_webhooks
+[2024-04-06 04:55:18][notice]Dumping table tmp46cf94_wc_webhooks is complete. Start replacing row(s).
+[2024-04-06 04:55:18][notice]Counting of rows in tmp46cf94_wc_webhooks: 0
+[2024-04-06 04:55:18][notice]Drop table if exist tmp46cf94_woocommerce_attribute_taxonomies
+[2024-04-06 04:55:19][notice]Creating table tmp46cf94_woocommerce_attribute_taxonomies
+[2024-04-06 04:55:19][notice]Dumping table tmp46cf94_woocommerce_attribute_taxonomies is complete. Start replacing row(s).
+[2024-04-06 04:55:19][notice]Counting of rows in tmp46cf94_woocommerce_attribute_taxonomies: 0
+[2024-04-06 04:55:19][notice]Drop table if exist tmp46cf94_woocommerce_log
+[2024-04-06 04:55:19][notice]Creating table tmp46cf94_woocommerce_log
+[2024-04-06 04:55:19][notice]Dumping table tmp46cf94_woocommerce_log is complete. Start replacing row(s).
+[2024-04-06 04:55:19][notice]Counting of rows in tmp46cf94_woocommerce_log: 0
+[2024-04-06 04:55:19][notice]Drop table if exist tmp46cf94_woocommerce_order_items
+[2024-04-06 04:55:19][notice]Creating table tmp46cf94_woocommerce_order_items
+[2024-04-06 04:55:19][notice]Dumping table tmp46cf94_woocommerce_order_items is complete. Start replacing row(s).
+[2024-04-06 04:55:19][Warning]Skipping table tmp46cf94_woocommerce_order_items
+[2024-04-06 04:55:19][notice]Drop table if exist tmp46cf94_woocommerce_payment_tokens
+[2024-04-06 04:55:20][notice]Creating table tmp46cf94_woocommerce_payment_tokens
+[2024-04-06 04:55:20][notice]Dumping table tmp46cf94_woocommerce_payment_tokens is complete. Start replacing row(s).
+[2024-04-06 04:55:20][notice]Counting of rows in tmp46cf94_woocommerce_payment_tokens: 0
+[2024-04-06 04:55:20][notice]Drop table if exist tmp46cf94_woodmart_wishlist_products
+[2024-04-06 04:55:20][notice]Creating table tmp46cf94_woodmart_wishlist_products
+[2024-04-06 04:55:20][notice]Dumping table tmp46cf94_woodmart_wishlist_products is complete. Start replacing row(s).
+[2024-04-06 04:55:20][notice]Counting of rows in tmp46cf94_woodmart_wishlist_products: 0
+[2024-04-06 04:55:20][notice]Drop table if exist tmp46cf94_actionscheduler_logs
+[2024-04-06 04:55:21][notice]Creating table tmp46cf94_actionscheduler_logs
+[2024-04-06 04:55:23][notice]Dumping table tmp46cf94_actionscheduler_logs is complete. Start replacing row(s).
+[2024-04-06 04:55:23][notice]Counting of rows in tmp46cf94_actionscheduler_logs: 31
+[2024-04-06 04:55:23][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:23][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:23][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:23][notice]Drop table if exist tmp46cf94_commentmeta
+[2024-04-06 04:55:23][notice]Creating table tmp46cf94_commentmeta
+[2024-04-06 04:55:23][notice]Dumping table tmp46cf94_commentmeta is complete. Start replacing row(s).
+[2024-04-06 04:55:23][notice]Counting of rows in tmp46cf94_commentmeta: 0
+[2024-04-06 04:55:23][notice]Drop table if exist tmp46cf94_e_submissions_values
+[2024-04-06 04:55:24][notice]Creating table tmp46cf94_e_submissions_values
+[2024-04-06 04:55:24][notice]Dumping table tmp46cf94_e_submissions_values is complete. Start replacing row(s).
+[2024-04-06 04:55:24][notice]Counting of rows in tmp46cf94_e_submissions_values: 3
+[2024-04-06 04:55:24][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:24][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:24][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:24][notice]Drop table if exist tmp46cf94_term_taxonomy
+[2024-04-06 04:55:24][notice]Creating table tmp46cf94_term_taxonomy
+[2024-04-06 04:55:26][notice]Dumping table tmp46cf94_term_taxonomy is complete. Start replacing row(s).
+[2024-04-06 04:55:26][notice]Counting of rows in tmp46cf94_term_taxonomy: 54
+[2024-04-06 04:55:26][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:26][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:26][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:26][notice]Drop table if exist tmp46cf94_termmeta
+[2024-04-06 04:55:27][notice]Creating table tmp46cf94_termmeta
+[2024-04-06 04:55:28][notice]Dumping table tmp46cf94_termmeta is complete. Start replacing row(s).
+[2024-04-06 04:55:28][notice]Counting of rows in tmp46cf94_termmeta: 42
+[2024-04-06 04:55:28][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:28][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:28][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:28][notice]Drop table if exist tmp46cf94_terms
+[2024-04-06 04:55:28][notice]Creating table tmp46cf94_terms
+[2024-04-06 04:55:29][notice]Dumping table tmp46cf94_terms is complete. Start replacing row(s).
+[2024-04-06 04:55:29][notice]Counting of rows in tmp46cf94_terms: 54
+[2024-04-06 04:55:29][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:29][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:29][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:29][notice]Drop table if exist tmp46cf94_usermeta
+[2024-04-06 04:55:29][notice]Creating table tmp46cf94_usermeta
+[2024-04-06 04:55:30][notice]Dumping table tmp46cf94_usermeta is complete. Start replacing row(s).
+[2024-04-06 04:55:30][notice]Counting of rows in tmp46cf94_usermeta: 61
+[2024-04-06 04:55:30][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:30][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:31][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:31][notice]Drop table if exist tmp46cf94_wc_customer_lookup
+[2024-04-06 04:55:31][notice]Creating table tmp46cf94_wc_customer_lookup
+[2024-04-06 04:55:31][notice]Dumping table tmp46cf94_wc_customer_lookup is complete. Start replacing row(s).
+[2024-04-06 04:55:31][notice]Counting of rows in tmp46cf94_wc_customer_lookup: 0
+[2024-04-06 04:55:31][notice]Drop table if exist tmp46cf94_wc_download_log
+[2024-04-06 04:55:31][notice]Creating table tmp46cf94_wc_download_log
+[2024-04-06 04:55:31][notice]Dumping table tmp46cf94_wc_download_log is complete. Start replacing row(s).
+[2024-04-06 04:55:31][notice]Counting of rows in tmp46cf94_wc_download_log: 0
+[2024-04-06 04:55:31][notice]Drop table if exist tmp46cf94_wc_order_coupon_lookup
+[2024-04-06 04:55:32][notice]Creating table tmp46cf94_wc_order_coupon_lookup
+[2024-04-06 04:55:32][notice]Dumping table tmp46cf94_wc_order_coupon_lookup is complete. Start replacing row(s).
+[2024-04-06 04:55:32][notice]Counting of rows in tmp46cf94_wc_order_coupon_lookup: 0
+[2024-04-06 04:55:32][notice]Drop table if exist tmp46cf94_wc_order_operational_data
+[2024-04-06 04:55:32][notice]Creating table tmp46cf94_wc_order_operational_data
+[2024-04-06 04:55:32][notice]Dumping table tmp46cf94_wc_order_operational_data is complete. Start replacing row(s).
+[2024-04-06 04:55:32][notice]Counting of rows in tmp46cf94_wc_order_operational_data: 0
+[2024-04-06 04:55:32][notice]Drop table if exist tmp46cf94_wc_order_tax_lookup
+[2024-04-06 04:55:33][notice]Creating table tmp46cf94_wc_order_tax_lookup
+[2024-04-06 04:55:33][notice]Dumping table tmp46cf94_wc_order_tax_lookup is complete. Start replacing row(s).
+[2024-04-06 04:55:33][notice]Counting of rows in tmp46cf94_wc_order_tax_lookup: 0
+[2024-04-06 04:55:33][notice]Drop table if exist tmp46cf94_wc_orders_meta
+[2024-04-06 04:55:33][notice]Creating table tmp46cf94_wc_orders_meta
+[2024-04-06 04:55:33][notice]Dumping table tmp46cf94_wc_orders_meta is complete. Start replacing row(s).
+[2024-04-06 04:55:33][notice]Counting of rows in tmp46cf94_wc_orders_meta: 0
+[2024-04-06 04:55:33][notice]Drop table if exist tmp46cf94_woocommerce_api_keys
+[2024-04-06 04:55:33][notice]Creating table tmp46cf94_woocommerce_api_keys
+[2024-04-06 04:55:33][notice]Dumping table tmp46cf94_woocommerce_api_keys is complete. Start replacing row(s).
+[2024-04-06 04:55:33][notice]Counting of rows in tmp46cf94_woocommerce_api_keys: 0
+[2024-04-06 04:55:33][notice]Drop table if exist tmp46cf94_woocommerce_order_itemmeta
+[2024-04-06 04:55:34][notice]Creating table tmp46cf94_woocommerce_order_itemmeta
+[2024-04-06 04:55:34][notice]Dumping table tmp46cf94_woocommerce_order_itemmeta is complete. Start replacing row(s).
+[2024-04-06 04:55:34][notice]Counting of rows in tmp46cf94_woocommerce_order_itemmeta: 0
+[2024-04-06 04:55:34][notice]Drop table if exist tmp46cf94_woocommerce_payment_tokenmeta
+[2024-04-06 04:55:34][notice]Creating table tmp46cf94_woocommerce_payment_tokenmeta
+[2024-04-06 04:55:34][notice]Dumping table tmp46cf94_woocommerce_payment_tokenmeta is complete. Start replacing row(s).
+[2024-04-06 04:55:34][notice]Counting of rows in tmp46cf94_woocommerce_payment_tokenmeta: 0
+[2024-04-06 04:55:34][notice]Drop table if exist tmp46cf94_woocommerce_shipping_zone_locations
+[2024-04-06 04:55:34][notice]Creating table tmp46cf94_woocommerce_shipping_zone_locations
+[2024-04-06 04:55:34][notice]Dumping table tmp46cf94_woocommerce_shipping_zone_locations is complete. Start replacing row(s).
+[2024-04-06 04:55:34][notice]Counting of rows in tmp46cf94_woocommerce_shipping_zone_locations: 0
+[2024-04-06 04:55:34][notice]Drop table if exist tmp46cf94_woocommerce_tax_rate_locations
+[2024-04-06 04:55:35][notice]Creating table tmp46cf94_woocommerce_tax_rate_locations
+[2024-04-06 04:55:35][notice]Dumping table tmp46cf94_woocommerce_tax_rate_locations is complete. Start replacing row(s).
+[2024-04-06 04:55:35][notice]Counting of rows in tmp46cf94_woocommerce_tax_rate_locations: 0
+[2024-04-06 04:55:35][notice]Drop table if exist tmp46cf94_users
+[2024-04-06 04:55:35][notice]Creating table tmp46cf94_users
+[2024-04-06 04:55:35][notice]Dumping table tmp46cf94_users is complete. Start replacing row(s).
+[2024-04-06 04:55:35][notice]Counting of rows in tmp46cf94_users: 1
+[2024-04-06 04:55:35][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:35][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:35][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:35][notice]Drop table if exist tmp46cf94_wc_admin_note_actions
+[2024-04-06 04:55:36][notice]Creating table tmp46cf94_wc_admin_note_actions
+[2024-04-06 04:55:38][notice]Dumping table tmp46cf94_wc_admin_note_actions is complete. Start replacing row(s).
+[2024-04-06 04:55:38][notice]Counting of rows in tmp46cf94_wc_admin_note_actions: 125
+[2024-04-06 04:55:38][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:39][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:39][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:39][notice]Drop table if exist tmp46cf94_wc_order_stats
+[2024-04-06 04:55:40][notice]Creating table tmp46cf94_wc_order_stats
+[2024-04-06 04:55:40][notice]Dumping table tmp46cf94_wc_order_stats is complete. Start replacing row(s).
+[2024-04-06 04:55:40][notice]Counting of rows in tmp46cf94_wc_order_stats: 0
+[2024-04-06 04:55:40][notice]Drop table if exist tmp46cf94_woocommerce_sessions
+[2024-04-06 04:55:40][notice]Creating table tmp46cf94_woocommerce_sessions
+[2024-04-06 04:55:41][notice]Dumping table tmp46cf94_woocommerce_sessions is complete. Start replacing row(s).
+[2024-04-06 04:55:41][Warning]Skipping table tmp46cf94_woocommerce_sessions
+[2024-04-06 04:55:41][notice]Drop table if exist tmp46cf94_wc_admin_notes
+[2024-04-06 04:55:41][notice]Creating table tmp46cf94_wc_admin_notes
+[2024-04-06 04:55:43][notice]Dumping table tmp46cf94_wc_admin_notes is complete. Start replacing row(s).
+[2024-04-06 04:55:43][notice]Counting of rows in tmp46cf94_wc_admin_notes: 93
+[2024-04-06 04:55:43][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:43][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:43][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:43][notice]Drop table if exist tmp46cf94_wc_order_addresses
+[2024-04-06 04:55:44][notice]Creating table tmp46cf94_wc_order_addresses
+[2024-04-06 04:55:44][notice]Dumping table tmp46cf94_wc_order_addresses is complete. Start replacing row(s).
+[2024-04-06 04:55:44][notice]Counting of rows in tmp46cf94_wc_order_addresses: 0
+[2024-04-06 04:55:44][notice]Drop table if exist tmp46cf94_wc_order_product_lookup
+[2024-04-06 04:55:45][notice]Creating table tmp46cf94_wc_order_product_lookup
+[2024-04-06 04:55:45][notice]Dumping table tmp46cf94_wc_order_product_lookup is complete. Start replacing row(s).
+[2024-04-06 04:55:45][notice]Counting of rows in tmp46cf94_wc_order_product_lookup: 0
+[2024-04-06 04:55:45][notice]Drop table if exist tmp46cf94_woocommerce_downloadable_product_permissions
+[2024-04-06 04:55:46][notice]Creating table tmp46cf94_woocommerce_downloadable_product_permissions
+[2024-04-06 04:55:46][notice]Dumping table tmp46cf94_woocommerce_downloadable_product_permissions is complete. Start replacing row(s).
+[2024-04-06 04:55:46][notice]Counting of rows in tmp46cf94_woocommerce_downloadable_product_permissions: 0
+[2024-04-06 04:55:46][notice]Drop table if exist tmp46cf94_woocommerce_tax_rates
+[2024-04-06 04:55:48][notice]Creating table tmp46cf94_woocommerce_tax_rates
+[2024-04-06 04:55:48][notice]Dumping table tmp46cf94_woocommerce_tax_rates is complete. Start replacing row(s).
+[2024-04-06 04:55:48][notice]Counting of rows in tmp46cf94_woocommerce_tax_rates: 0
+[2024-04-06 04:55:48][notice]Drop table if exist tmp46cf94_comments
+[2024-04-06 04:55:49][notice]Creating table tmp46cf94_comments
+[2024-04-06 04:55:49][notice]Dumping table tmp46cf94_comments is complete. Start replacing row(s).
+[2024-04-06 04:55:49][notice]Counting of rows in tmp46cf94_comments: 0
+[2024-04-06 04:55:49][notice]Drop table if exist tmp46cf94_wc_product_meta_lookup
+[2024-04-06 04:55:50][notice]Creating table tmp46cf94_wc_product_meta_lookup
+[2024-04-06 04:55:50][notice]Dumping table tmp46cf94_wc_product_meta_lookup is complete. Start replacing row(s).
+[2024-04-06 04:55:50][notice]Counting of rows in tmp46cf94_wc_product_meta_lookup: 5
+[2024-04-06 04:55:50][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:50][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:50][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:50][notice]Drop table if exist tmp46cf94_e_submissions_actions_log
+[2024-04-06 04:55:51][notice]Creating table tmp46cf94_e_submissions_actions_log
+[2024-04-06 04:55:51][notice]Dumping table tmp46cf94_e_submissions_actions_log is complete. Start replacing row(s).
+[2024-04-06 04:55:51][notice]Counting of rows in tmp46cf94_e_submissions_actions_log: 1
+[2024-04-06 04:55:51][notice]Replacing the row in 0 line.
+[2024-04-06 04:55:51][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:55:51][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:55:51][notice]Drop table if exist tmp46cf94_wc_orders
+[2024-04-06 04:55:53][notice]Creating table tmp46cf94_wc_orders
+[2024-04-06 04:55:53][notice]Dumping table tmp46cf94_wc_orders is complete. Start replacing row(s).
+[2024-04-06 04:55:53][notice]Counting of rows in tmp46cf94_wc_orders: 0
+[2024-04-06 04:55:53][notice]Drop table if exist tmp46cf94_revslider_css
+[2024-04-06 04:55:53][notice]Creating table tmp46cf94_revslider_css
+[2024-04-06 04:56:00][notice]Dumping table tmp46cf94_revslider_css is complete. Start replacing row(s).
+[2024-04-06 04:56:00][notice]Counting of rows in tmp46cf94_revslider_css: 109
+[2024-04-06 04:56:00][notice]Replacing the row in 0 line.
+[2024-04-06 04:56:00][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:56:00][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:56:00][notice]Drop table if exist tmp46cf94_actionscheduler_actions
+[2024-04-06 04:56:02][notice]Creating table tmp46cf94_actionscheduler_actions
+[2024-04-06 04:56:04][notice]Dumping table tmp46cf94_actionscheduler_actions is complete. Start replacing row(s).
+[2024-04-06 04:56:04][notice]Counting of rows in tmp46cf94_actionscheduler_actions: 17
+[2024-04-06 04:56:04][notice]Replacing the row in 0 line.
+[2024-04-06 04:56:04][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:56:04][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:56:04][notice]Drop table if exist tmp46cf94_e_submissions
+[2024-04-06 04:56:06][notice]Creating table tmp46cf94_e_submissions
+[2024-04-06 04:56:06][notice]Dumping table tmp46cf94_e_submissions is complete. Start replacing row(s).
+[2024-04-06 04:56:06][notice]Counting of rows in tmp46cf94_e_submissions: 1
+[2024-04-06 04:56:06][notice]Replacing the row in 0 line.
+[2024-04-06 04:56:06][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:56:06][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:56:06][notice]Drop table if exist tmp46cf94_options
+[2024-04-06 04:56:07][notice]Creating table tmp46cf94_options
+[2024-04-06 04:57:31][notice]Dumping table tmp46cf94_options is complete. Start replacing row(s).
+[2024-04-06 04:57:31][notice]Counting of rows in tmp46cf94_options: 683
+[2024-04-06 04:57:31][notice]Replacing the row in 0 line.
+[2024-04-06 04:57:36][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:57:36][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:57:36][notice]Drop table if exist tmp46cf94_posts
+[2024-04-06 04:57:37][notice]Creating table tmp46cf94_posts
+[2024-04-06 04:58:03][notice]Reading sql file completed offset:5259172
+[2024-04-06 04:58:03][notice]End restore databases.
+[2024-04-06 04:58:05][notice]Start restoring databases.
+[2024-04-06 04:58:05][notice]Start restoring sql file offset:5259172
+[2024-04-06 04:58:05][notice]The test to drop table succeeds.
+[2024-04-06 04:58:25][notice]Reading sql file completed offset:10504442
+[2024-04-06 04:58:25][notice]End restore databases.
+[2024-04-06 04:58:27][notice]Start restoring databases.
+[2024-04-06 04:58:27][notice]Start restoring sql file offset:10504442
+[2024-04-06 04:58:27][notice]The test to drop table succeeds.
+[2024-04-06 04:58:44][notice]Reading sql file completed offset:15791553
+[2024-04-06 04:58:44][notice]End restore databases.
+[2024-04-06 04:58:47][notice]Start restoring databases.
+[2024-04-06 04:58:47][notice]Start restoring sql file offset:15791553
+[2024-04-06 04:58:48][notice]The test to drop table succeeds.
+[2024-04-06 04:58:51][notice]Dumping table tmp46cf94_posts is complete. Start replacing row(s).
+[2024-04-06 04:58:51][notice]Counting of rows in tmp46cf94_posts: 920
+[2024-04-06 04:58:51][notice]Replacing the row in 0 line.
+[2024-04-06 04:59:47][notice]Replacing row completed. Current row:5000
+[2024-04-06 04:59:47][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 04:59:47][notice]Drop table if exist tmp46cf94_postmeta
+[2024-04-06 04:59:48][notice]Creating table tmp46cf94_postmeta
+[2024-04-06 05:03:01][notice]Reading sql file completed offset:21051569
+[2024-04-06 05:03:01][notice]End restore databases.
+[2024-04-06 05:03:03][notice]Start restoring databases.
+[2024-04-06 05:03:03][notice]Start restoring sql file offset:21051569
+[2024-04-06 05:03:03][notice]The test to drop table succeeds.
+[2024-04-06 05:03:19][notice]Reading sql file completed offset:26297467
+[2024-04-06 05:03:19][notice]End restore databases.
+[2024-04-06 05:03:22][notice]Start restoring databases.
+[2024-04-06 05:03:22][notice]Start restoring sql file offset:26297467
+[2024-04-06 05:03:22][notice]The test to drop table succeeds.
+[2024-04-06 05:03:37][notice]Reading sql file completed offset:31546878
+[2024-04-06 05:03:37][notice]End restore databases.
+[2024-04-06 05:03:40][notice]Start restoring databases.
+[2024-04-06 05:03:40][notice]Start restoring sql file offset:31546878
+[2024-04-06 05:03:40][notice]The test to drop table succeeds.
+[2024-04-06 05:03:59][notice]Reading sql file completed offset:36838413
+[2024-04-06 05:03:59][notice]End restore databases.
+[2024-04-06 05:04:02][notice]Start restoring databases.
+[2024-04-06 05:04:02][notice]Start restoring sql file offset:36838413
+[2024-04-06 05:04:03][notice]The test to drop table succeeds.
+[2024-04-06 05:04:20][notice]Reading sql file completed offset:42097774
+[2024-04-06 05:04:20][notice]End restore databases.
+[2024-04-06 05:04:22][notice]Start restoring databases.
+[2024-04-06 05:04:22][notice]Start restoring sql file offset:42097774
+[2024-04-06 05:04:22][notice]The test to drop table succeeds.
+[2024-04-06 05:04:39][notice]Reading sql file completed offset:47347649
+[2024-04-06 05:04:39][notice]End restore databases.
+[2024-04-06 05:04:42][notice]Start restoring databases.
+[2024-04-06 05:04:42][notice]Start restoring sql file offset:47347649
+[2024-04-06 05:04:42][notice]The test to drop table succeeds.
+[2024-04-06 05:05:01][notice]Reading sql file completed offset:52693815
+[2024-04-06 05:05:01][notice]End restore databases.
+[2024-04-06 05:05:04][notice]Start restoring databases.
+[2024-04-06 05:05:04][notice]Start restoring sql file offset:52693815
+[2024-04-06 05:05:05][notice]The test to drop table succeeds.
+[2024-04-06 05:05:23][notice]Reading sql file completed offset:58026988
+[2024-04-06 05:05:23][notice]End restore databases.
+[2024-04-06 05:05:25][notice]Start restoring databases.
+[2024-04-06 05:05:25][notice]Start restoring sql file offset:58026988
+[2024-04-06 05:05:27][notice]The test to drop table succeeds.
+[2024-04-06 05:05:29][notice]Dumping table tmp46cf94_postmeta is complete. Start replacing row(s).
+[2024-04-06 05:05:29][notice]Counting of rows in tmp46cf94_postmeta: 7946
+[2024-04-06 05:05:29][notice]Replacing the row in 0 line.
+[2024-04-06 05:06:41][notice]Replacing the row in 5000 line.
+[2024-04-06 05:08:20][notice]Replacing row completed. Current row:10000
+[2024-04-06 05:08:20][notice]{"result":"success","replace_row":10000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2024-04-06 05:08:20][notice]UPDATE tmp46cf94_options SET option_value="http://localhost/MensSwag" WHERE option_name="siteurl";
+[2024-04-06 05:08:20][notice]update query len:98
+[2024-04-06 05:08:20][notice]UPDATE tmp46cf94_options SET option_value="http://localhost/MensSwag" WHERE option_name="home";
+[2024-04-06 05:08:20][notice]update query len:95
+[2024-04-06 05:08:20][notice]Restore db success
+[2024-04-06 05:08:20][notice]End restore databases.
+[2024-04-06 05:08:22][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2024-04-06 05:08:25][notice]DROP TABLE IF EXISTS wp_actionscheduler_actions
+[2024-04-06 05:08:25][notice]DROP TABLE IF EXISTS wp_actionscheduler_claims
+[2024-04-06 05:08:25][notice]DROP TABLE IF EXISTS wp_actionscheduler_groups
+[2024-04-06 05:08:25][notice]DROP TABLE IF EXISTS wp_actionscheduler_logs
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_comments
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_e_events
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_e_submissions
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_e_submissions_actions_log
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_e_submissions_values
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_links
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_options
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_postmeta
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_posts
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_css
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_css_bkp
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_layer_animations
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_layer_animations_bkp
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_navigations
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_navigations_bkp
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_sliders
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_sliders_bkp
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_slides
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_slides_bkp
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_static_slides
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_revslider_static_slides_bkp
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_termmeta
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_terms
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_usermeta
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_users
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_admin_note_actions
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_admin_notes
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_category_lookup
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_customer_lookup
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_download_log
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_order_addresses
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_order_coupon_lookup
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_order_operational_data
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_order_product_lookup
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_order_stats
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_order_tax_lookup
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_orders
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_orders_meta
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_product_attributes_lookup
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_product_download_directories
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_product_meta_lookup
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_rate_limits
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_reserved_stock
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_tax_rate_classes
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wc_webhooks
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_api_keys
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_attribute_taxonomies
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_downloadable_product_permissions
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_log
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_order_itemmeta
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_order_items
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_payment_tokenmeta
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_payment_tokens
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_sessions
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_shipping_zone_locations
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_shipping_zone_methods
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_shipping_zones
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_tax_rate_locations
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woocommerce_tax_rates
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woodmart_wishlist_products
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_woodmart_wishlists
+[2024-04-06 05:08:26][notice]DROP TABLE IF EXISTS wp_wpfm_backup
+[2024-04-06 05:08:27][notice]RENAME TABLE tmp46cf94_actionscheduler_actions TO wp_actionscheduler_actions
+[2024-04-06 05:08:27][notice]RENAME TABLE tmp46cf94_actionscheduler_claims TO wp_actionscheduler_claims
+[2024-04-06 05:08:27][notice]RENAME TABLE tmp46cf94_actionscheduler_groups TO wp_actionscheduler_groups
+[2024-04-06 05:08:27][notice]RENAME TABLE tmp46cf94_actionscheduler_logs TO wp_actionscheduler_logs
+[2024-04-06 05:08:27][notice]RENAME TABLE tmp46cf94_commentmeta TO wp_commentmeta
+[2024-04-06 05:08:28][notice]RENAME TABLE tmp46cf94_comments TO wp_comments
+[2024-04-06 05:08:28][notice]RENAME TABLE tmp46cf94_e_events TO wp_e_events
+[2024-04-06 05:08:28][notice]RENAME TABLE tmp46cf94_e_submissions TO wp_e_submissions
+[2024-04-06 05:08:28][notice]RENAME TABLE tmp46cf94_e_submissions_actions_log TO wp_e_submissions_actions_log
+[2024-04-06 05:08:29][notice]RENAME TABLE tmp46cf94_e_submissions_values TO wp_e_submissions_values
+[2024-04-06 05:08:29][notice]RENAME TABLE tmp46cf94_links TO wp_links
+[2024-04-06 05:08:29][notice]RENAME TABLE tmp46cf94_options TO wp_options
+[2024-04-06 05:08:29][notice]RENAME TABLE tmp46cf94_postmeta TO wp_postmeta
+[2024-04-06 05:08:29][notice]RENAME TABLE tmp46cf94_posts TO wp_posts
+[2024-04-06 05:08:30][notice]RENAME TABLE tmp46cf94_revslider_css TO wp_revslider_css
+[2024-04-06 05:08:30][notice]RENAME TABLE tmp46cf94_revslider_css_bkp TO wp_revslider_css_bkp
+[2024-04-06 05:08:30][notice]RENAME TABLE tmp46cf94_revslider_layer_animations TO wp_revslider_layer_animations
+[2024-04-06 05:08:30][notice]RENAME TABLE tmp46cf94_revslider_layer_animations_bkp TO wp_revslider_layer_animations_bkp
+[2024-04-06 05:08:31][notice]RENAME TABLE tmp46cf94_revslider_navigations TO wp_revslider_navigations
+[2024-04-06 05:08:31][notice]RENAME TABLE tmp46cf94_revslider_navigations_bkp TO wp_revslider_navigations_bkp
+[2024-04-06 05:08:31][notice]RENAME TABLE tmp46cf94_revslider_sliders TO wp_revslider_sliders
+[2024-04-06 05:08:31][notice]RENAME TABLE tmp46cf94_revslider_sliders_bkp TO wp_revslider_sliders_bkp
+[2024-04-06 05:08:31][notice]RENAME TABLE tmp46cf94_revslider_slides TO wp_revslider_slides
+[2024-04-06 05:08:31][notice]RENAME TABLE tmp46cf94_revslider_slides_bkp TO wp_revslider_slides_bkp
+[2024-04-06 05:08:32][notice]RENAME TABLE tmp46cf94_revslider_static_slides TO wp_revslider_static_slides
+[2024-04-06 05:08:32][notice]RENAME TABLE tmp46cf94_revslider_static_slides_bkp TO wp_revslider_static_slides_bkp
+[2024-04-06 05:08:32][notice]RENAME TABLE tmp46cf94_term_relationships TO wp_term_relationships
+[2024-04-06 05:08:32][notice]RENAME TABLE tmp46cf94_term_taxonomy TO wp_term_taxonomy
+[2024-04-06 05:08:32][notice]RENAME TABLE tmp46cf94_termmeta TO wp_termmeta
+[2024-04-06 05:08:33][notice]RENAME TABLE tmp46cf94_terms TO wp_terms
+[2024-04-06 05:08:33][notice]RENAME TABLE tmp46cf94_usermeta TO wp_usermeta
+[2024-04-06 05:08:33][notice]RENAME TABLE tmp46cf94_users TO wp_users
+[2024-04-06 05:08:33][notice]RENAME TABLE tmp46cf94_wc_admin_note_actions TO wp_wc_admin_note_actions
+[2024-04-06 05:08:33][notice]RENAME TABLE tmp46cf94_wc_admin_notes TO wp_wc_admin_notes
+[2024-04-06 05:08:34][notice]RENAME TABLE tmp46cf94_wc_category_lookup TO wp_wc_category_lookup
+[2024-04-06 05:08:34][notice]RENAME TABLE tmp46cf94_wc_customer_lookup TO wp_wc_customer_lookup
+[2024-04-06 05:08:34][notice]RENAME TABLE tmp46cf94_wc_download_log TO wp_wc_download_log
+[2024-04-06 05:08:34][notice]RENAME TABLE tmp46cf94_wc_order_addresses TO wp_wc_order_addresses
+[2024-04-06 05:08:34][notice]RENAME TABLE tmp46cf94_wc_order_coupon_lookup TO wp_wc_order_coupon_lookup
+[2024-04-06 05:08:34][notice]RENAME TABLE tmp46cf94_wc_order_operational_data TO wp_wc_order_operational_data
+[2024-04-06 05:08:35][notice]RENAME TABLE tmp46cf94_wc_order_product_lookup TO wp_wc_order_product_lookup
+[2024-04-06 05:08:35][notice]RENAME TABLE tmp46cf94_wc_order_stats TO wp_wc_order_stats
+[2024-04-06 05:08:35][notice]RENAME TABLE tmp46cf94_wc_order_tax_lookup TO wp_wc_order_tax_lookup
+[2024-04-06 05:08:35][notice]RENAME TABLE tmp46cf94_wc_orders TO wp_wc_orders
+[2024-04-06 05:08:36][notice]RENAME TABLE tmp46cf94_wc_orders_meta TO wp_wc_orders_meta
+[2024-04-06 05:08:36][notice]RENAME TABLE tmp46cf94_wc_product_attributes_lookup TO wp_wc_product_attributes_lookup
+[2024-04-06 05:08:36][notice]RENAME TABLE tmp46cf94_wc_product_download_directories TO wp_wc_product_download_directories
+[2024-04-06 05:08:36][notice]RENAME TABLE tmp46cf94_wc_product_meta_lookup TO wp_wc_product_meta_lookup
+[2024-04-06 05:08:36][notice]RENAME TABLE tmp46cf94_wc_rate_limits TO wp_wc_rate_limits
+[2024-04-06 05:08:36][notice]RENAME TABLE tmp46cf94_wc_reserved_stock TO wp_wc_reserved_stock
+[2024-04-06 05:08:37][notice]RENAME TABLE tmp46cf94_wc_tax_rate_classes TO wp_wc_tax_rate_classes
+[2024-04-06 05:08:37][notice]RENAME TABLE tmp46cf94_wc_webhooks TO wp_wc_webhooks
+[2024-04-06 05:08:37][notice]RENAME TABLE tmp46cf94_woocommerce_api_keys TO wp_woocommerce_api_keys
+[2024-04-06 05:08:37][notice]RENAME TABLE tmp46cf94_woocommerce_attribute_taxonomies TO wp_woocommerce_attribute_taxonomies
+[2024-04-06 05:08:37][notice]RENAME TABLE tmp46cf94_woocommerce_downloadable_product_permissions TO wp_woocommerce_downloadable_product_permissions
+[2024-04-06 05:08:37][notice]RENAME TABLE tmp46cf94_woocommerce_log TO wp_woocommerce_log
+[2024-04-06 05:08:38][notice]RENAME TABLE tmp46cf94_woocommerce_order_itemmeta TO wp_woocommerce_order_itemmeta
+[2024-04-06 05:08:38][notice]RENAME TABLE tmp46cf94_woocommerce_order_items TO wp_woocommerce_order_items
+[2024-04-06 05:08:38][notice]RENAME TABLE tmp46cf94_woocommerce_payment_tokenmeta TO wp_woocommerce_payment_tokenmeta
+[2024-04-06 05:08:38][notice]RENAME TABLE tmp46cf94_woocommerce_payment_tokens TO wp_woocommerce_payment_tokens
+[2024-04-06 05:08:39][notice]RENAME TABLE tmp46cf94_woocommerce_sessions TO wp_woocommerce_sessions
+[2024-04-06 05:08:39][notice]RENAME TABLE tmp46cf94_woocommerce_shipping_zone_locations TO wp_woocommerce_shipping_zone_locations
+[2024-04-06 05:08:39][notice]RENAME TABLE tmp46cf94_woocommerce_shipping_zone_methods TO wp_woocommerce_shipping_zone_methods
+[2024-04-06 05:08:39][notice]RENAME TABLE tmp46cf94_woocommerce_shipping_zones TO wp_woocommerce_shipping_zones
+[2024-04-06 05:08:40][notice]RENAME TABLE tmp46cf94_woocommerce_tax_rate_locations TO wp_woocommerce_tax_rate_locations
+[2024-04-06 05:08:40][notice]RENAME TABLE tmp46cf94_woocommerce_tax_rates TO wp_woocommerce_tax_rates
+[2024-04-06 05:08:40][notice]RENAME TABLE tmp46cf94_woodmart_wishlist_products TO wp_woodmart_wishlist_products
+[2024-04-06 05:08:40][notice]RENAME TABLE tmp46cf94_woodmart_wishlists TO wp_woodmart_wishlists
+[2024-04-06 05:08:41][notice]RENAME TABLE tmp46cf94_wpfm_backup TO wp_wpfm_backup
+[2024-04-06 05:08:41][notice]Replacing table prefix succeeded.
+[2024-04-06 05:08:42][notice]Delete migration option failed.
+[2024-04-06 05:08:42][notice]Deleting temp files.

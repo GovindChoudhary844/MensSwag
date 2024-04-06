@@ -1,0 +1,44 @@
+2024-03-21T08:14:08+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on bool in C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php:294
+Stack trace:
+#0 C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\govin\Local Sites\mensswag\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php on line 294
+
+2024-03-21T09:12:30+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on bool in C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php:294
+Stack trace:
+#0 C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\govin\Local Sites\mensswag\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php on line 294
+
+2024-03-21T09:20:30+00:00 CRITICAL Uncaught TypeError: Elementor\TemplateLibrary\Source_Local::on_save_post(): Argument #2 ($post) must be of type WP_Post, null given, called in C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\class-wp-hook.php on line 326 and defined in C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\elementor\includes\template-library\sources\local.php:1114
+Stack trace:
+#0 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\class-wp-hook.php(326): Elementor\TemplateLibrary\Source_Local->on_save_post(10976, NULL)
+#1 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\post.php(4760): do_action('save_post', 10976, NULL, true)
+#4 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\post.php(4862): wp_insert_post(Array, false, true)
+#5 C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\elementor\includes\db.php(235): wp_update_post(Array)
+#6 C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\elementor\core\base\document.php(1348): Elementor\DB->save_plain_text(10976)
+#7 C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\elementor\core\base\document.php(841): Elementor\Core\Base\Document->save_elements(Array)
+#8 C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\elementor\core\documents-manager.php(545): Elementor\Core\Base\Document->save(Array)
+#9 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#10 C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#11 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#12 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 C:\Users\govin\Local Sites\mensswag\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#14 C:\Users\govin\Local Sites\mensswag\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#15 {main}
+  thrown in C:\Users\govin\Local Sites\mensswag\app\public\wp-content\plugins\elementor\includes\template-library\sources\local.php on line 1114
+
